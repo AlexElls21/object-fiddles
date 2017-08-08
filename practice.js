@@ -287,3 +287,8 @@ function makeCard(cardNumber, expirationDate, securityCode){
 */
 
   //Code Here
+// function bindCard(person, card){
+//   for (var fianl in makePerson){
+//     
+//   } for
+// }
